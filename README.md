@@ -20,7 +20,7 @@ Credit card fraud causes billions in losses globally. In this project, I analyze
 ├── creditcard.csv            # Anonymized raw transaction data
 ├── queries.sql               # SQL-based fraud queries
 ├── notebooks/
-│   └── analysis.ipynb        # Python notebook for visualization
+│   └── challenge.ipynb        # Python notebook for visualization
 ├── images/
 │   ├── early_hour.png
 │   ├── id_holder_2.png
