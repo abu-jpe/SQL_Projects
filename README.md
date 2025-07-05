@@ -50,7 +50,7 @@ Key tasks:
 - Detecting outliers using boxplots and statistical analysis
 - Visualizing fraudulent transactions across time
 
-> 📓 Full code and visualizations: [analysis.ipynb](notebooks/analysis.ipynb)
+> 📓 Full code and visualizations: [challenge.ipynb](notebooks/challenge.ipynb)
 
 ---
 
