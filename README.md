@@ -50,7 +50,7 @@ Key tasks:
 - Detecting outliers using boxplots and statistical analysis
 - Visualizing fraudulent transactions across time
 
-> 📓 Full code and visualizations: [challenge.ipynb]([notebooks/challenge.ipynb](https://github.com/abu-jpe/SQL_Projects/blob/main/challenge.ipynb))
+> 📓 Full code and visualizations: [challenge.ipynb](challenge.ipynb)
 
 ---
 
