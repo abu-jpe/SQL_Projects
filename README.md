@@ -92,4 +92,4 @@ This project helped sharpen my ability to:
 
 ## 📬 Contact
 
-If you'd like to discuss this project or others like it, feel free to reach out via GitHub or [LinkedIn](https://www.linkedin.com/promiseabu).
+If you'd like to discuss this project or others like it, feel free to reach out via GitHub or [LinkedIn](https://www.linkedin.com/in/promiseabu/).
